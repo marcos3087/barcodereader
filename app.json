@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Capebe Eventos",
-    "slug": "CapebeEventos",
+    "name": "Barcode Reader",
+    "slug": "Barcodereder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,15 +34,11 @@
         "android.permission.CAMERA",
         "android.permission.RECORD_AUDIO"
       ],
-      "package": "com.capebe.capebeeventos"
+      "package": "com.devapp.barcodereder"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "895b5343-5fd4-4e87-befa-03cc198e8381"
-      }
     }
   }
 }
+
